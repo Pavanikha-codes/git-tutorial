@@ -1,0 +1,11 @@
+git stash
+
+modified changes save temporarily 
+
+to restore git stash pop
+
+most recent stash  git stash apply
+
+to specific git stash apply stash_name
+
+to view stash_name  git stash list
